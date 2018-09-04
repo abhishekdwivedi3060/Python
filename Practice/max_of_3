@@ -1,0 +1,21 @@
+try:
+    def max_of_3(a,b,c):
+        if a > b:
+            if a > c:
+                print("a is greatest")
+            else"
+                print("c is greates")
+        elif b > c:
+            print("b is greatest")
+        else:
+            print("c is greatest")
+    print("Enter the numbers")
+    a=int(input())
+    b=int(input())   
+    c=int(input())
+    max_of_3(a,b,c)
+
+except ValueError:
+    print("error...enter int type only")  
+ 
+

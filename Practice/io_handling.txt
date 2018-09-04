@@ -1,0 +1,5 @@
+this is just an example to practice input out handling
+sis
+pip 
+pop
+str:
